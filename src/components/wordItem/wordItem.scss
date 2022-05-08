@@ -1,0 +1,42 @@
+@import 'style/variables.scss';
+
+.word-item {
+    &__word {
+        background-color: #e6e6e6;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 26px;
+    }
+
+    &__word + &__word {
+        margin-top: 3px;
+    }
+
+    &__title {
+        font-size: 16px;
+        line-height: 26px;
+        font-weight: 400;
+    }
+
+    &__progress{
+        margin-left: 10px;
+        position: relative;
+        width: 16px;
+        height: 16px;
+        background-color: #f5a72b;
+        border-radius: 50%;
+        @include shadow;
+    }
+
+    &__progress-inside {
+        position: absolute;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        background: conic-gradient(#BF8FFD 0%, transparent 0);
+        @include shadow;
+        right: -6px;
+        top: -6px;
+    }
+}

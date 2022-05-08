@@ -1,0 +1,20 @@
+@import 'style/variables.scss';
+
+.dictionary {
+    &__item {
+        @include shadow;
+        background-color: #fff;
+        padding: 14px 0 50px 0;
+        border-radius: 9px;
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__filters {
+        padding: 0px 8px;
+    }
+
+}

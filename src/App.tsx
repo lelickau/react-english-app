@@ -8,6 +8,7 @@ import HomePage from 'pages/homePage/HomePage'
 import { useAppDispatch } from 'hooks/reduxHooks'
 
 import AuthPage from 'pages/authPage/AuthPage'
+import Preloader from 'components/preloader/Preloader'
 
 const App:FC = () => {
     const dispatch = useAppDispatch()
@@ -42,6 +43,12 @@ const App:FC = () => {
         }).catch((error) => {
             dispatch(setError('Возникла ошибка, повторите позже'))
         })
+    }
+
+    if (loading) {
+        return (
+            <Preloader/>
+        )
     }
 
     return (

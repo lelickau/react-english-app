@@ -1,0 +1,56 @@
+.loader {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+
+    &__item {
+        width: 3vw;
+        height: 3vw;
+        border-radius: 100%;
+        margin: 2vw;
+        background-image: linear-gradient(145deg, rgba(255,255,255,0.5) 0%, rgba(0,0,0,0) 100%);
+        animation: bounce 1.5s 0.5s linear infinite;
+    }
+
+    &__bright-1 {
+        background-color: #26C1FC;
+    }
+
+    &__bright-2 {
+        background-color: #BF8FFD;
+        animation-delay: 0.1s;
+    }
+
+    &__bright-3 {
+        background-color: #F5A72B;
+        animation-delay: 0.2s;
+    }
+
+    &__bright-4 {
+        background-color: #FD8BD0;
+        animation-delay: 0.3s;
+    }
+
+    @keyframes bounce {
+        0%, 50%, 100% {
+            transform: scale(1);
+            filter: blur(0px);
+        }
+        25% {
+            transform: scale(0.6);
+            filter: blur(3px);
+        }
+        75% {
+            filter: blur(3px);
+            transform: scale(1.4);
+        }
+    }
+
+    &__hidden {
+        display: none;
+    }
+}

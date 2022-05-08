@@ -14,6 +14,9 @@ const gameSlice = createSlice({
         createQuizGameTest: (state, action: PayloadAction<IQuizData[]>) => {
             state.quizTestData = action.payload
         },
+        createConstructorGameTest: (state, action: PayloadAction<IConstructorData[]>) => {
+            state.constructorTestData = action.payload
+        },
         deleteTestData: (state) => {
             state.quizTestData = []
             state.constructorTestData = []
@@ -21,5 +24,5 @@ const gameSlice = createSlice({
     }
 })
 
-export const {createQuizGameTest, deleteTestData} =  gameSlice.actions
+export const {createQuizGameTest, createConstructorGameTest, deleteTestData} =  gameSlice.actions
 export default gameSlice.reducer

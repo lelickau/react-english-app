@@ -1,0 +1,21 @@
+@import 'style/_variables.scss';
+
+.quiz-btn {
+    padding: 17px 25px;
+    background: #BF8FFD;
+    box-shadow: 0px 5px 0px #A17AD3;
+    border-radius: 11px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    border: none;
+    cursor: pointer;
+    transition: all .5s;
+    text-transform: capitalize;
+
+    &:hover {
+        background: #A057FD;
+        box-shadow: 0px 5px 0px #7448AC;
+    }
+}

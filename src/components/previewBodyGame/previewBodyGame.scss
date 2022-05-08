@@ -1,0 +1,25 @@
+
+.preview-body {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+
+    &__about {
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 450px) {
+    .preview-body {
+        flex-direction: column;
+        padding: 13px;
+        margin-bottom: 20px;
+
+        &__title,
+        &__text {
+            margin-top: 10px;
+            text-align: center;
+        }
+    }
+
+}

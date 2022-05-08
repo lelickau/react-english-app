@@ -1,0 +1,1316 @@
+[
+    {
+        "id": "additional",
+        "translate": "дополнительный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/additional-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Something added."
+    },
+    {
+        "id": "afraid",
+        "translate": "испуганный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/afraid-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Usually used predicatively, not attributively, be afraid. Impressed with fear or apprehension; in fear."
+    },
+    {
+        "id": "angry",
+        "translate": "сердитый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/angry-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Displaying or feeling anger."
+    },
+    {
+        "id": "asleep",
+        "translate": "спящий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/asleep-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "In a state of sleep; also, broadly, resting."
+    },
+    {
+        "id": "attentive",
+        "translate": "внимательный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/attentive-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Paying attention; noticing, watching, listening, or attending closely."
+    },
+    {
+        "id": "available",
+        "translate": "доступный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/available-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose."
+    },
+    {
+        "id": "basic",
+        "translate": "основной",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/basic-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A necessary commodity, a staple requirement."
+    },
+    {
+        "id": "beautiful",
+        "translate": "красивый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/beautiful-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Someone who is beautiful. Can be used as a term of address."
+    },
+    {
+        "id": "big",
+        "translate": "большой",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/big-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Someone or something that is large in stature"
+    },
+    {
+        "id": "boring",
+        "translate": "скучный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/boring-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To inspire boredom in somebody."
+    },
+    {
+        "id": "brave",
+        "translate": "храбрый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/brave-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A Native American warrior."
+    },
+    {
+        "id": "bright",
+        "translate": "яркий, умный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/bright-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head."
+    },
+    {
+        "id": "busy",
+        "translate": "занятой",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/busy-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A police officer."
+    },
+    {
+        "id": "calm",
+        "translate": "спокойный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/calm-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion."
+    },
+    {
+        "id": "careful",
+        "translate": "осмотрительный, заботливый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/careful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Taking care; attentive to potential danger, error or harm; cautious."
+    },
+    {
+        "id": "cheap",
+        "translate": "дешёвый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/cheap-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Trade; traffic; chaffer; chaffering."
+    },
+    {
+        "id": "clean",
+        "translate": "чистый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/clean-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Removal of dirt."
+    },
+    {
+        "id": "clever",
+        "translate": "умный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/clever-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Nimble with hands or body; skillful; adept."
+    },
+    {
+        "id": "cold",
+        "translate": "холодный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/cold-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(of a thing) Having a low temperature."
+    },
+    {
+        "id": "comfortable",
+        "translate": "удобный, комфортный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/comfortable-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A stuffed or quilted coverlet for a bed; a comforter."
+    },
+    {
+        "id": "confident",
+        "translate": "уверенный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/confident-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A person in whom one can confide or share one's secrets: a friend."
+    },
+    {
+        "id": "conscious",
+        "translate": "сознательный, осознанный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/conscious-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "The part of the mind that is aware of itself; the consciousness."
+    },
+    {
+        "id": "constant",
+        "translate": "постоянный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/constant-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "That which is permanent or invariable."
+    },
+    {
+        "id": "convenient",
+        "translate": "подходящий, удобный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/convenient-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Serving to reduce a difficulty, or accessible with minimum difficulty; expedient."
+    },
+    {
+        "id": "cool",
+        "translate": "прохладный, клёвый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/cool-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness."
+    },
+    {
+        "id": "correct",
+        "translate": "правильный, надлежащий, корректный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/correct-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Free from error; true; accurate."
+    },
+    {
+        "id": "curious",
+        "translate": "любопытный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/curious-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Tending to ask questions, or to want to explore or investigate; inquisitive; (with a negative connotation) nosy, prying."
+    },
+    {
+        "id": "dangerous",
+        "translate": "опасный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/dangerous-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Full of danger."
+    },
+    {
+        "id": "dark",
+        "translate": "тёмный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/dark-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having an absolute or (more often) relative lack of light."
+    },
+    {
+        "id": "deep",
+        "translate": "глубокий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/deep-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(with 'the') The deep part of a lake, sea, etc."
+    },
+    {
+        "id": "different",
+        "translate": "разный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/different-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "The different ideal."
+    },
+    {
+        "id": "difficult",
+        "translate": "сложный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/difficult-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To make difficult; to impede; to perplex."
+    },
+    {
+        "id": "dirty",
+        "translate": "грязный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/dirty-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To make (something) dirty."
+    },
+    {
+        "id": "easy",
+        "translate": "лёгкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/easy-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Something that is easy"
+    },
+    {
+        "id": "efficient",
+        "translate": "квалифицированный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/efficient-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A cause; something that causes an effect"
+    },
+    {
+        "id": "empty",
+        "translate": "пустой",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/empty-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(usually plural) A container, especially a bottle, whose contents have been used up, leaving it empty."
+    },
+    {
+        "id": "exact",
+        "translate": "точный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/exact-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To demand and enforce the payment or performance of, sometimes in a forcible or imperious way."
+    },
+    {
+        "id": "exciting",
+        "translate": "захватывающий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/exciting-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "The fireworks which opened the festivities excited anyone present."
+    },
+    {
+        "id": "fair",
+        "translate": "честный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/fair-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Something which is fair (in various senses of the adjective)."
+    },
+    {
+        "id": "expensive",
+        "translate": "дорогостоящий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/expensive-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Given to expending a lot of money; profligate, lavish."
+    },
+    {
+        "id": "famous",
+        "translate": "известный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/famous-us.ogg",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To make famous; to bring renown to."
+    },
+    {
+        "id": "fast",
+        "translate": "быстрый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/fast-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations"
+    },
+    {
+        "id": "fat",
+        "translate": "толстый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/fat-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A specialized animal tissue with a high oil content, used for long-term storage of energy."
+    },
+    {
+        "id": "fine",
+        "translate": "нормальный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/fine-1-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Fine champagne; French brandy."
+    },
+    {
+        "id": "firm",
+        "translate": "твёрдый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/firm-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A business partnership; the name under which it trades."
+    },
+    {
+        "id": "flat",
+        "translate": "плоский",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/flat-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "An area of level ground."
+    },
+    {
+        "id": "foreign",
+        "translate": "иностранный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/foreign-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A foreign person, particularly"
+    },
+    {
+        "id": "formal",
+        "translate": "формальный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/formal-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "An event with a formal dress code."
+    },
+    {
+        "id": "former",
+        "translate": "бывший",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/former-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Previous."
+    },
+    {
+        "id": "free",
+        "translate": "свободный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/free-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Free transfer"
+    },
+    {
+        "id": "fresh",
+        "translate": "свежий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/fresh-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A rush of water, along a river or onto the land; a flood."
+    },
+    {
+        "id": "friendly",
+        "translate": "дружелюбный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/friendly-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A game which is of no consequence in terms of ranking, betting etc."
+    },
+    {
+        "id": "frightful",
+        "translate": "устрашающий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/frightful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Full of fright, whether"
+    },
+    {
+        "id": "full",
+        "translate": "полный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/full-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Containing the maximum possible amount that can fit in the space available."
+    },
+    {
+        "id": "funny",
+        "translate": "забавный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/funny-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A joke."
+    },
+    {
+        "id": "gorgeous",
+        "translate": "изумительный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/gorgeous-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(of a person or place) Very beautiful."
+    },
+    {
+        "id": "guilty",
+        "translate": "виновный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/guilty-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A plea by a defendant who does not contest a charge."
+    },
+    {
+        "id": "happy",
+        "translate": "счастливый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/happy-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A happy event, thing, person, etc."
+    },
+    {
+        "id": "hard",
+        "translate": "тяжёлый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/hard-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A firm or paved beach or slope convenient for hauling vessels out of the water."
+    },
+    {
+        "id": "healthy",
+        "translate": "здоровый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/healthy-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Enjoying health and vigor of body, mind, or spirit: well."
+    },
+    {
+        "id": "heavy",
+        "translate": "крупный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/heavy-1-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A villain or bad guy; the one responsible for evil or aggressive acts."
+    },
+    {
+        "id": "helpful",
+        "translate": "полезный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/helpful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Furnishing help; giving aid; useful."
+    },
+    {
+        "id": "historical",
+        "translate": "исторический",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/historical-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A historical romance."
+    },
+    {
+        "id": "honest",
+        "translate": "честный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/honest-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To adorn or grace; to honour; to make becoming, appropriate, or honourable."
+    },
+    {
+        "id": "hot",
+        "translate": "горячий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/hot-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(with up) To heat; to make or become hot."
+    },
+    {
+        "id": "huge",
+        "translate": "огромный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/huge-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Very large."
+    },
+    {
+        "id": "hungry",
+        "translate": "голодный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/hungry-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Affected by hunger; desiring of food; having a physical need for food."
+    },
+    {
+        "id": "illegal",
+        "translate": "незаконный",
+        "mp3": null,
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "An illegal act or technique."
+    },
+    {
+        "id": "important",
+        "translate": "важный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/important-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having relevant and crucial value."
+    },
+    {
+        "id": "impossible",
+        "translate": "невозможный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/impossible-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "An impossibility"
+    },
+    {
+        "id": "independent",
+        "translate": "независимый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/independent-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A candidate or voter not affiliated with any political party, a freethinker, free of a party platform."
+    },
+    {
+        "id": "informal",
+        "translate": "неформальный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/informal-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Not formal or ceremonious."
+    },
+    {
+        "id": "innocent",
+        "translate": "невиновный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/innocent-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "One who is innocent, especially a young child."
+    },
+    {
+        "id": "interesting",
+        "translate": "интересный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/interesting-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of a person or thing."
+    },
+    {
+        "id": "international",
+        "translate": "международный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/international-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Someone who has represented their country in a particular sport."
+    },
+    {
+        "id": "kind",
+        "translate": "добрый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/kind-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together."
+    },
+    {
+        "id": "large",
+        "translate": "крупный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/large-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "An old musical note, equal to two longas, four breves, or eight semibreves."
+    },
+    {
+        "id": "leading",
+        "translate": "ведущий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/leading-1-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "To cover, fill, or affect with lead"
+    },
+    {
+        "id": "legal",
+        "translate": "законный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/legal-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "The legal department of a company."
+    },
+    {
+        "id": "light",
+        "translate": "лёгкий, светлый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/light-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having light; bright; clear; not dark or obscure."
+    },
+    {
+        "id": "little",
+        "translate": "маленький",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/little-nz.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Small in size."
+    },
+    {
+        "id": "lonely",
+        "translate": "одинокий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/lonely-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Unhappy because of feeling isolated from contact with other people."
+    },
+    {
+        "id": "long",
+        "translate": "длинный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/long-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below)."
+    },
+    {
+        "id": "loose",
+        "translate": "просторный, небрежный, шаткий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/loose-1-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Not fixed in place tightly or firmly."
+    },
+    {
+        "id": "loud",
+        "translate": "громкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/loud-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(of a sound) Of great intensity."
+    },
+    {
+        "id": "lucky",
+        "translate": "удачливый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/lucky-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(of people) Favoured by luck; fortunate; having good success or good fortune."
+    },
+    {
+        "id": "necessary",
+        "translate": "необходимый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/necessary-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."
+    },
+    {
+        "id": "nice",
+        "translate": "милый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/nice-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Pleasant, satisfactory."
+    },
+    {
+        "id": "normal",
+        "translate": "обычный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/normal-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "According to norms or rules or to a regular pattern."
+    },
+    {
+        "id": "obvious",
+        "translate": "очевидный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/obvious-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Easily discovered, seen, or understood; self-explanatory."
+    },
+    {
+        "id": "official",
+        "translate": "официальный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/official-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Of or pertaining to an office or public trust."
+    },
+    {
+        "id": "old",
+        "translate": "старый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/old-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Of an object, concept, relationship, etc., having existed for a relatively long period of time."
+    },
+    {
+        "id": "opposite",
+        "translate": "противоположный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/opposite-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Located directly across from something else, or from each other."
+    },
+    {
+        "id": "perfect",
+        "translate": "идеальный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/perfect-1-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Fitting its definition precisely."
+    },
+    {
+        "id": "pleasant",
+        "translate": "приятный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/pleasant-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Giving pleasure; pleasing in manner."
+    },
+    {
+        "id": "polite",
+        "translate": "вежливый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/polite.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Well-mannered, civilized."
+    },
+    {
+        "id": "poor",
+        "translate": "бедный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/poor-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "With no or few possessions or money, particularly in relation to contemporaries who do have them."
+    },
+    {
+        "id": "popular",
+        "translate": "популярный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/popular-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Common among the general public; generally accepted."
+    },
+    {
+        "id": "possible",
+        "translate": "возможный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/possible-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(usually not comparable) Able but not certain to happen; neither inevitable nor impossible."
+    },
+    {
+        "id": "powerful",
+        "translate": "властный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/powerful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having, or capable of exerting power, potency or influence."
+    },
+    {
+        "id": "quiet",
+        "translate": "тихий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/quiet-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "With little or no sound; free of disturbing noise."
+    },
+    {
+        "id": "rare",
+        "translate": "редкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/rare-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Very uncommon; scarce."
+    },
+    {
+        "id": "recent",
+        "translate": "недавний",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/recent-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having happened a short while ago."
+    },
+    {
+        "id": "relevant",
+        "translate": "уместный",
+        "mp3": null,
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Directly related, connected, or pertinent to a topic."
+    },
+    {
+        "id": "remarkable",
+        "translate": "выдающийся",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/remarkable-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Worthy of being remarked or noted; notable."
+    },
+    {
+        "id": "remote",
+        "translate": "дальний",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/remote-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "At a distance; disconnected."
+    },
+    {
+        "id": "responsible",
+        "translate": "ответственный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/responsible-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having the duty of taking care of something; answerable for an act performed or for its consequences; accountable; amenable, especially legally or politically."
+    },
+    {
+        "id": "rich",
+        "translate": "богатый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/rich-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Wealthy: having a lot of money and possessions."
+    },
+    {
+        "id": "rude",
+        "translate": "грубый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/rude-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Bad-mannered."
+    },
+    {
+        "id": "sad",
+        "translate": "грустный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/sad-1-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(heading) Emotionally negative."
+    },
+    {
+        "id": "safe",
+        "translate": "сохранный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/safe-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Not in danger; out of harm's reach."
+    },
+    {
+        "id": "secure",
+        "translate": "безопасный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/secure-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Free from attack or danger; protected."
+    },
+    {
+        "id": "sensible",
+        "translate": "благоразумный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/sensible-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Perceptible by the senses."
+    },
+    {
+        "id": "short",
+        "translate": "низкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/short-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a small distance from one end or edge to another, either horizontally or vertically."
+    },
+    {
+        "id": "silly",
+        "translate": "глупый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/silly-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Laughable or amusing through foolishness or a foolish appearance."
+    },
+    {
+        "id": "similar",
+        "translate": "похожий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/similar-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having traits or characteristics in common; alike, comparable."
+    },
+    {
+        "id": "slow",
+        "translate": "медленный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/slow-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Taking a long time to move or go a short distance, or to perform an action; not quick in motion; proceeding at a low speed."
+    },
+    {
+        "id": "small",
+        "translate": "маленький",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/small-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Not large or big. Insignificant. Few in number."
+    },
+    {
+        "id": "smooth",
+        "translate": "гладкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/smooth-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a texture that lacks friction. Not rough."
+    },
+    {
+        "id": "strange",
+        "translate": "странный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/strange-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Not normal; odd, unusual, surprising, out of the ordinary."
+    },
+    {
+        "id": "strict",
+        "translate": "строгий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/strict-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Strained; drawn close; tight."
+    },
+    {
+        "id": "strong",
+        "translate": "сильный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/strong-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Capable of producing great physical force."
+    },
+    {
+        "id": "successful",
+        "translate": "успешный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/successful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Resulting in success; assuring, or promoting, success; accomplishing what was proposed; having the desired effect"
+    },
+    {
+        "id": "sudden",
+        "translate": "внезапный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/sudden-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Happening quickly and with little or no warning."
+    },
+    {
+        "id": "suitable",
+        "translate": "подходящий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/suitable-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having sufficient or the required properties for a certain purpose or task; appropriate to a certain occasion."
+    },
+    {
+        "id": "suspicious",
+        "translate": "подозрительный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/suspicious-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Arousing suspicion."
+    },
+    {
+        "id": "sweet",
+        "translate": "сладкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/sweet-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a pleasant taste, especially one relating to the basic taste sensation induced by sugar."
+    },
+    {
+        "id": "tall",
+        "translate": "высокий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/tall-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "(of a person) Having a vertical extent greater than the average. For example, somebody with a height of over 6 feet would generally be considered to be tall."
+    },
+    {
+        "id": "tasty",
+        "translate": "вкусный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/tasty-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a pleasant or satisfying flavor; delicious."
+    },
+    {
+        "id": "terrible",
+        "translate": "ужасный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/terrible-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Dreadful; causing terror, alarm and fear; awesome"
+    },
+    {
+        "id": "thin",
+        "translate": "худой",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/thin-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having little thickness or extent from one surface to its opposite."
+    },
+    {
+        "id": "thirsty",
+        "translate": "испытывающий жажду",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/thirsty-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Needing to drink."
+    },
+    {
+        "id": "tiny",
+        "translate": "крошечный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/tiny-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Very small."
+    },
+    {
+        "id": "tired",
+        "translate": "уставший",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/tired-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "In need of some rest or sleep."
+    },
+    {
+        "id": "traditional",
+        "translate": "традиционный",
+        "mp3": null,
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Of, relating to, or derived from tradition."
+    },
+    {
+        "id": "typical",
+        "translate": "типичный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/typical-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Capturing the overall sense of a thing."
+    },
+    {
+        "id": "useful",
+        "translate": "полезный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/useful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a practical or beneficial use."
+    },
+    {
+        "id": "usual",
+        "translate": "обычный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/usual-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Most commonly occurring; typical."
+    },
+    {
+        "id": "valuable",
+        "translate": "ценный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/valuable-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a great value."
+    },
+    {
+        "id": "warm",
+        "translate": "теплый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/warm-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a temperature slightly higher than usual, but still pleasant; mildly hot."
+    },
+    {
+        "id": "weak",
+        "translate": "слабый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/weak-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Lacking in force (usually strength) or ability."
+    },
+    {
+        "id": "weird",
+        "translate": "странный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/weird-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having an unusually strange character or behaviour."
+    },
+    {
+        "id": "wide",
+        "translate": "широкий",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/wide-au.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Having a large physical extent from side to side."
+    },
+    {
+        "id": "wise",
+        "translate": "мудрый",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/wise-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Showing good judgement or the benefit of experience."
+    },
+    {
+        "id": "wonderful",
+        "translate": "чудесный",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/wonderful-us.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "Tending to excite wonder; surprising, extraordinary."
+    },
+    {
+        "id": "young",
+        "translate": "молодой",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/young-uk.mp3",
+        "thema": "adjectives",
+        "partOfSpeech": "adjective",
+        "example": "",
+        "definitions": "In the early part of growth or life; born not long ago."
+    }
+]

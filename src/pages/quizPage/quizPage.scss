@@ -1,0 +1,21 @@
+@import 'style/_variables.scss';
+
+.quiz-page {
+    &__description {
+        padding: 60px;
+        background-color: #F2EAFF;
+        @include shadow;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 550px) {
+    .quiz-page {
+        &__description {
+            padding: 25px 8px;
+        }
+    }
+}

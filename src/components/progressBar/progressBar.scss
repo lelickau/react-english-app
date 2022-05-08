@@ -1,0 +1,36 @@
+
+.progress {
+    &__start,
+    &__end,
+    &__middle {
+        display: inline-block;
+        width: 15px;
+        height: 13px;
+        background-color: #EDF2FC;
+        margin-left: 1px;
+        margin-right: 1px;
+
+    }
+
+    &__start {
+        border-top-left-radius: 9px;
+        border-bottom-left-radius: 9px;
+    }
+
+    &__end {
+        border-top-right-radius: 9px;
+        border-bottom-right-radius: 9px;
+    }
+
+    &--active {
+        background-color: #E2D0FA;
+    }
+
+    &--correct {
+        background-color: #BF8FFD;
+    }
+
+    &--error {
+        background-color: #F67463;
+    }
+}

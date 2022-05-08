@@ -1,0 +1,868 @@
+[
+    {
+        "id": "bacon",
+        "translate": "бекон",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bacon--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "We ate bacon and eggs for breakfast. - На завтрак мы ели яичницу с беконом.",
+        "definitions": "cured meat from the back or sides of a pig."
+    },
+    {
+        "id": "beef",
+        "translate": "говядина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/beef--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "The beef was overdone. - Говядина была пережарена.",
+        "definitions": "the flesh of a cow, bull, or ox, used as food."
+    },
+    {
+        "id": "chicken",
+        "translate": "курица",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/chicken--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "For dinner we had roast chicken and a salad. - На ужин мы ели жареную курицу с салатом.",
+        "definitions": "a domestic fowl kept for its eggs or meat, especially a young one."
+    },
+    {
+        "id": "duck",
+        "translate": "утка",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/duck--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "A male duck is a drake. - Самец утки называется 'селезень'.",
+        "definitions": "a waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait."
+    },
+    {
+        "id": "ham",
+        "translate": "ветчина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ham--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "thin slices of ham - тонкие кусочки ветчины",
+        "definitions": "salted or smoked meat from the upper part of a pig's leg."
+    },
+    {
+        "id": "lamb",
+        "translate": "мясо ягненка",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/lamb--1_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "A young sheep is a lamb. - Детёныш овцы называется ягнёнком.",
+        "definitions": "a young sheep."
+    },
+    {
+        "id": "liver",
+        "translate": "печень",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/liver--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "The liver manufactures bile. - Печень вырабатывает желчь.",
+        "definitions": "a large lobed glandular organ in the abdomen of vertebrates, involved in many metabolic processes."
+    },
+    {
+        "id": "meat",
+        "translate": "мясо",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/meat--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "The meat is tender and juicy. - Это мясо нежное и сочное.",
+        "definitions": "the flesh of an animal, typically a mammal or bird, as food (the flesh of domestic fowls is sometimes distinguished as poultry )."
+    },
+    {
+        "id": "mutton",
+        "translate": "баранина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/mutton--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "The meat of the sheep is mutton. - Мясо овцы - баранина.",
+        "definitions": "the flesh of fully grown sheep used as food."
+    },
+    {
+        "id": "pork",
+        "translate": "свинина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pork--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "We're having pork roast for dinner. - На ужин у нас жаркое из свинины.",
+        "definitions": "the flesh of a pig used as food, especially when uncured."
+    },
+    {
+        "id": "poultry",
+        "translate": "птица, дичь",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/poultry--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "He kept pigs and poultry. - Он держал свиней и домашнюю птицу.",
+        "definitions": "domestic fowl, such as chickens, turkeys, ducks, and geese."
+    },
+    {
+        "id": "sausage",
+        "translate": "сосиска",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sausage--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "Would you like any sausage? - Вы хотите сосиску?",
+        "definitions": "an item of food in the form of a cylindrical length of minced pork or other meat encased in a skin, typically sold raw to be grilled or fried before eating."
+    },
+    {
+        "id": "tenderloin",
+        "translate": "филе, вырезка",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/tenderloin--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "This is the tenderloin for the sophisticated restaurants. - Вот вырезка для дорогих ресторанов.",
+        "definitions": "the tenderest part of a loin of beef, pork, etc., taken from under the short ribs in the hindquarters."
+    },
+    {
+        "id": "turkey",
+        "translate": "индейка",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/turkey--1_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "He filled up on turkey. - Он объелся индейкой.",
+        "definitions": "a large mainly domesticated game bird native to North America, having a bald head and (in the male) red wattles. It is a popular food on festive occasions such as Christmas and (in the US) Thanksgiving."
+    },
+    {
+        "id": "veal",
+        "translate": "телятина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/veal--_gb_2.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "She roasted red veal, and powdered lean beef. - Она зажарила свежую телятину и засолила постную говядину.",
+        "definitions": "the flesh of a young calf, used as food."
+    },
+    {
+        "id": "venison",
+        "translate": "оленина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/venison--_gb_1.mp3",
+        "thema": "meat",
+        "partOfSpeech": "noun",
+        "example": "The meat of a deer is venison. - Мясо оленя называется олениной.",
+        "definitions": "meat from a deer."
+    },
+    {
+        "id": "cod",
+        "translate": "треска",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/cod--_gb_2.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Two cod fillets, please. - Два филе трески, пожалуйста.",
+        "definitions": "a large marine fish with a small barbel on the chin."
+    },
+    {
+        "id": "eel",
+        "translate": "угорь",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/eel--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "I bought you a boxed lunch, eel on rice. - Я принесла тебе завтрак - угорь на рисе.",
+        "definitions": "a snake-like fish with a slender elongated body and poorly developed fins, proverbial for its slipperiness."
+    },
+    {
+        "id": "grouper",
+        "translate": "морской окунь",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/grouper--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "This was the sailfin grouper. - Это был морской окунь.",
+        "definitions": "a large or very large heavy-bodied fish of the sea bass family, with a big head and wide mouth, found in warm seas."
+    },
+    {
+        "id": "herring",
+        "translate": "сельдь",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/herring--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Herring is the poor man's salmon. - Селёдка — это лосось бедняков.",
+        "definitions": "a fairly small silvery fish which is most abundant in coastal waters and is of widespread commercial importance."
+    },
+    {
+        "id": "mackerel",
+        "translate": "скумбрия",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/mackerel--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Sometimes 60 mackerel go to a pad. - Иногда в одну корзину умещается около шестидесяти скумбрий.",
+        "definitions": "a predatory marine fish with a greenish-blue back, important as a food fish."
+    },
+    {
+        "id": "pike",
+        "translate": "щука",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pike--1_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "The pike lives mainly in large rivers and lakes. - Щука живёт главным образом в больших реках и озёрах.",
+        "definitions": "a long-bodied predatory freshwater fish with a pointed snout and large teeth, of both Eurasia and North America."
+    },
+    {
+        "id": "pikeperch",
+        "translate": "судак",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pikeperch--_gb_1.8.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Pikeperch with fresh herbs on a salad of lentils and grilled vegetables. - Судак со свежими травами на салате из чечевицы и овощей на гриле",
+        "definitions": "a predatory pike-like freshwater fish of the perch family, especially the zander."
+    },
+    {
+        "id": "plaice",
+        "translate": "камбала",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/plaice--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Now, haddock, plaice, or saveloy? - Итак, пикша, камбала или колбаса?",
+        "definitions": "a North Atlantic flatfish which is a commercially important food fish."
+    },
+    {
+        "id": "salmon",
+        "translate": "семга",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/salmon--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Our fish special tonight is salmon in a lemon-cream sauce. - Сегодня в качестве рыбного блюда дня у нас подаётся лосось под белым лимонным соусом.",
+        "definitions": "a large edible fish that is a popular sporting fish, much prized for its pink flesh. Salmon mature in the sea but migrate to freshwater streams to spawn."
+    },
+    {
+        "id": "sardines",
+        "translate": "сардины",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sardine--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "We take in the synchronized swimming of sardines and the pensive patrol of a leopard shark. - Мы наблюдаем, как синхронно плавают сардины, и задумчиво, не спеша плывёт калифорнийская тройнозубая акула.",
+        "definitions": "a young pilchard or other young or small herring-like fish."
+    },
+    {
+        "id": "sole",
+        "translate": "морской язык",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sole--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Dover sole fried with butter and lemon. - Морской язык жареный с маслом и лимоном",
+        "definitions": "the undersurface of a person's foot."
+    },
+    {
+        "id": "sturgeon",
+        "translate": "осетрина",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sturgeon--_gb_1.8.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Otherwise known as... the North Atlantic sturgeon. - Так же известный как... североатлантический осетр.",
+        "definitions": "a very large primitive fish with bony plates on the body. It occurs in temperate seas and rivers of the northern hemisphere, especially central Eurasia, and is of commercial importance for its caviar and flesh."
+    },
+    {
+        "id": "trout",
+        "translate": "форель",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/trout--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "The trout snapped at the bait. - Форель схватила наживку.",
+        "definitions": "a chiefly freshwater fish of the salmon family, found in both Eurasia and North America and highly valued for food and game."
+    },
+    {
+        "id": "fish",
+        "translate": "рыба",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/fish--_gb_1.mp3",
+        "thema": "fish",
+        "partOfSpeech": "noun",
+        "example": "Did you catch any fish? - Ты что-нибудь поймал? (о рыбалке)",
+        "definitions": "a limbless cold-blooded vertebrate animal with gills and fins living wholly in water."
+    },
+    {
+        "id": "asparagus",
+        "translate": "спаржа",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/asparagus--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Mama's cooking halibut and grilled asparagus. - Мама готовит палтуса и спаржу на гриле.",
+        "definitions": "a tall plant of the lily family with fine feathery foliage, cultivated for its edible shoots."
+    },
+    {
+        "id": "avocado",
+        "translate": "авокадо",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/avocado--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Avocado salad is a favourite of mine. - Салат из авокадо является моим любимым.",
+        "definitions": "a pear-shaped fruit with a rough leathery skin and smooth, oily edible flesh."
+    },
+    {
+        "id": "beans",
+        "translate": "бобы",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bean--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "He ate the whole can of beans. - Он съел целую банку бобов.",
+        "definitions": "an edible seed, typically kidney-shaped, growing in long pods on certain leguminous plants."
+    },
+    {
+        "id": "beet",
+        "translate": "свекла",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/beet--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "I've planted carrots, parsnips, and beets in the garden. - В огороде я посадил морковь, пастернак и свеклу.",
+        "definitions": "a herbaceous plant widely cultivated as a source of food for humans and livestock, and for processing into sugar. Some varieties are grown for their leaves and some for their large nutritious root."
+    },
+    {
+        "id": "broccoli",
+        "translate": "брокколи",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/broccoli--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "I'm not averse to broccoli if it's cooked right. - Я не против брокколи, если она правильно приготовлена.",
+        "definitions": "a cultivated variety of cabbage bearing heads of green or purplish flower buds that are eaten as a vegetable."
+    },
+    {
+        "id": "cabbage",
+        "translate": "капуста",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/cabbage--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "I'm not keen on cabbage. - Я не в восторге от капусты. / Мне не нравится капуста.",
+        "definitions": "a cultivated plant eaten as a vegetable, having thick green or purple leaves surrounding a spherical heart or head of young leaves."
+    },
+    {
+        "id": "carrot",
+        "translate": "морковь",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/carrot--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "She chopped some carrots for the soup. - Она нарезала морковь для супа.",
+        "definitions": "a tapering orange-coloured root eaten as a vegetable."
+    },
+    {
+        "id": "cauliflower",
+        "translate": "цветная капуста",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/cauliflower--_gb_2.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Your cauliflower looks like it's coming on nice. - Похоже, твоя цветная капуста отлично растет.",
+        "definitions": "a cabbage of a variety which bears a large immature flower head of small creamy-white flower buds."
+    },
+    {
+        "id": "chard",
+        "translate": "листовая свекла",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/chard--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Can you get that Swiss chard for me? - Сможешь достать мне тот швейцарский мангольд?",
+        "definitions": "a beet of a variety with broad edible white leaf stalks and green blades."
+    },
+    {
+        "id": "cucumber",
+        "translate": "огурец",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/cucumber--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "I hope these aren't cucumber sandwiches. Cucumber always repeats. - Надеюсь, это не огуречные сандвичи. А то огурцы у меня всегда вызывают отрыжку.",
+        "definitions": "a long, green-skinned fruit with watery flesh, usually eaten raw in salads or pickled."
+    },
+    {
+        "id": "eggplant",
+        "translate": "баклажан",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/eggplant--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "He made this dish of spaghetti with eggplant and mozzarella. - Он приготовил спагетти с баклажаном и моцареллой.",
+        "definitions": "the purple egg-shaped fruit of a tropical Old World plant, which is eaten as a vegetable; an aubergine."
+    },
+    {
+        "id": "garlic",
+        "translate": "чеснок",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/garlic--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Can you taste the garlic? - Вы чувствуете вкус чеснока?",
+        "definitions": "a strong-smelling pungent-tasting bulb, used as a flavouring in cooking and in herbal medicine."
+    },
+    {
+        "id": "leek",
+        "translate": "лук-порей",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/leek--_gb_2.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "The savoy, parsnip, beet, onion, leek are biennials. - Савойская капуста, пастернак, свёкла, лук, лук-порей — это двухлетние растения.",
+        "definitions": "a plant related to the onion, with flat overlapping leaves forming an elongated cylindrical bulb which together with the leaf bases is eaten as a vegetable. It is used as a Welsh national emblem."
+    },
+    {
+        "id": "lentils",
+        "translate": "чечевица",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/lentil--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "They live mainly on beans, lentils and rice. - Они едят в основном фасоль, чечевицу и рис.",
+        "definitions": "a high-protein pulse which is dried and then soaked and cooked prior to eating."
+    },
+    {
+        "id": "onion",
+        "translate": "лук репчатый",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/onion--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Chop the onions finely. - Мелко нарежьте лук. ",
+        "definitions": "a swollen edible bulb used as a vegetable, having a pungent taste and smell and composed of several concentric layers."
+    },
+    {
+        "id": "pea",
+        "translate": "горох",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pea--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "We're growing tomatoes and peas in our garden this year. - В этом году мы выращиваем на огороде помидоры и горох.",
+        "definitions": "a spherical green seed that is eaten as a vegetable or as a pulse when dried."
+    },
+    {
+        "id": "pepper",
+        "translate": "стручковый перец",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pepper--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Pepper makes me sneeze. - От перца я чихаю.",
+        "definitions": "a pungent hot-tasting powder prepared from dried and ground peppercorns, used as a spice or condiment to flavour food."
+    },
+    {
+        "id": "potato",
+        "translate": "картофель",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/potato--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Potato skin is very nutritious. - Картофельная кожура — очень питательная.",
+        "definitions": "a starchy plant tuber which is one of the most important food crops, cooked and eaten as a vegetable."
+    },
+    {
+        "id": "scallion",
+        "translate": "зеленый лук",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/scallion--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "First of all, if you have an onion bagel, you don't need scallion cream cheese. - Во-первых, не ешь луковый бублик, если намазал его луковым кремом",
+        "definitions": "a long-necked onion with a small bulb, in particular a spring onion."
+    },
+    {
+        "id": "spinach",
+        "translate": "шпинат",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/spinach--_gb_2.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "Spinach tends to boil down a lot. - Шпинат, как правило, сильно уваривается.",
+        "definitions": "an edible Asian plant of the goosefoot family, with large dark green leaves which are widely eaten as a vegetable."
+    },
+    {
+        "id": "pumpkin",
+        "translate": "тыква",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pumpkin--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "That's an almighty large pumpkin you've grown there. - Ох и здоровенную тыкву ты там вырастил.",
+        "definitions": "a large rounded orange-yellow fruit with a thick rind, the flesh of which can be used in sweet or savoury dishes."
+    },
+    {
+        "id": "turnip",
+        "translate": "репа",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/turnip--_gb_1.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "I brought him some turnip tops. - Я принёс ему ботву от репы.",
+        "definitions": "a round root with white or cream flesh which is eaten as a vegetable and also has edible leaves."
+    },
+    {
+        "id": "zucchini",
+        "translate": "цуккини",
+        "mp3": "//ssl.gstatic.com/dictionary/static/sounds/20200429/zucchini--_gb_1.8.mp3",
+        "thema": "vegetables",
+        "partOfSpeech": "noun",
+        "example": "They harvested a whacking number of zucchini from the garden. - В огороде они собрали огромное количество цуккини.",
+        "definitions": "the immature fruit of a vegetable marrow; a courgette."
+    },
+    {
+        "id": "apple",
+        "translate": "яблоко",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/apple-uk.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "Sweetest apple you'll ever taste. - Самое сладкое яблоко, которые вам доводилось пробовать.",
+        "definitions": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates."
+    },
+    {
+        "id": "nectarine",
+        "translate": "нектарин",
+        "mp3": null,
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I got to turn my peach into a nectarine. - Мне надо превратить мой персик в нектарин.",
+        "definitions": "A cultivar of the peach distinguished by its skin being smooth, not fuzzy."
+    },
+    {
+        "id": "avocado",
+        "translate": "авокадо",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/avocado-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "Avocados are the fruit of the avocado tree. - Авокадо - это плод дерева авокадо.",
+        "definitions": "The large, usually yellowish-green or black, pulpy fruit of the avocado tree."
+    },
+    {
+        "id": "orange",
+        "translate": "апельсин",
+        "mp3": null,
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I found an orange and half a granola bar. Sweet. - Я нашел апельсин, и пол батончика мюсли",
+        "definitions": "An evergreen tree of the genus Citrus such as Citrus sinensis."
+    },
+    {
+        "id": "apricot",
+        "translate": "абрикос",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/apricot-au.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I found an apricot on my way here. - По дороге сюда я нашла абрикос",
+        "definitions": "A round sweet and juicy stone fruit, resembling peach or plum in taste, with a yellow-orange flesh, lightly fuzzy skin and a large seed inside."
+    },
+    {
+        "id": "pear",
+        "translate": "груша",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/pear-uk.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "We've got wheatgrass, kale and pear smoothie, and coconut water. - Смузи из ростков пшеницы, капусты и груши , на кокосовой воде.",
+        "definitions": "An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem."
+    },
+    {
+        "id": "banana",
+        "translate": "банан",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/banana-uk.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I knew I had to pay for the banana ! - Я знал, что нужно было заплатить за этот банан !",
+        "definitions": "An elongated curved tropical fruit that grows in bunches and has a creamy flesh and a smooth skin."
+    },
+    {
+        "id": "papaya",
+        "translate": "папайя",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/papaya-uk.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "She gave me a papaya and I sent her a jade. - Она дала мне папайю, а я послал ей янтарь.",
+        "definitions": "A tropical American evergreen tree, Carica papaya, having large, yellow, edible fruit"
+    },
+    {
+        "id": "date",
+        "translate": "финик",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/date-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "And so we'd buy the date, and we'd go home. - И мы покупали финики, и шли домой.",
+        "definitions": "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel."
+    },
+    {
+        "id": "pineapple",
+        "translate": "ананас",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/pineapple-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "He brought out two plates of ham, biscuits, and pineapple slices. - Он принес две тарелки с ветчиной, бисквитом и нарезанным ананасом.",
+        "definitions": "A tropical plant, Ananas comosus, native to South America, having thirty or more long, spined and pointed leaves surrounding a thick stem."
+    },
+    {
+        "id": "fig",
+        "translate": "инжир",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/fig-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "For dessert the Frenchman had a fig souffle and a glass of red wine. - На десерт француз заказал суфле из инжира и стакан красного вина.",
+        "definitions": "A fruit-bearing tree or shrub of the genus Ficus that is native mainly to the tropics."
+    },
+    {
+        "id": "peach",
+        "translate": "персик",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/peach-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "You know, she even tastes like a peach. - И на вкус она тоже как персик.",
+        "definitions": "A tree (Prunus persica), native to China and now widely cultivated throughout temperate regions, having pink flowers and edible fruit."
+    },
+    {
+        "id": "grapefruit",
+        "translate": "грейпфрут",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/grapefruit-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "Citric acid can be extracted from the juice of oranges, lemons, or grapefruit. - Лимонная кислота может быть извлечена из сока апельсинов, лимонов или грейпфрутов.",
+        "definitions": "The tree of the species Citrus paradisi, a hybrid of pomelo (Citrus maxima) and sweet orange."
+    },
+    {
+        "id": "plum",
+        "translate": "слива",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/plum-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "Two of your best plum cakes please. - Мне, пожалуйста, два кусочка вашего лучшего сливового пирога.",
+        "definitions": "The fruit and its tree."
+    },
+    {
+        "id": "grapes",
+        "translate": "виноград",
+        "mp3": null,
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I used to press the grapes with you. - Я давил виноград вместе с вами.",
+        "definitions": "A small, round, smooth-skinned edible fruit, usually purple, red, or green, that grows in bunches on vines of genus Vitis."
+    },
+    {
+        "id": "persimmon",
+        "translate": "хурма",
+        "mp3": null,
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "The persimmon is far more than my favorite fruit. - Хурма это гораздо больше, чем мой любимый фрукт.",
+        "definitions": "A type of fruit, of orange colour, very sweet, quite astringent when immature."
+    },
+    {
+        "id": "kiwi",
+        "translate": "киви",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/kiwi-au.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I'll take a kiwi, sliced up. - Я возьму нарезанный киви.",
+        "definitions": "A New Zealander."
+    },
+    {
+        "id": "pomegranate",
+        "translate": "гранат",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/pomegranate-uk.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "There's something about this pomegranate . - Есть что - то особенное в этом гранате.",
+        "definitions": "A fruit-bearing shrub or small tree, Punica granatum."
+    },
+    {
+        "id": "lime",
+        "translate": "лайм",
+        "mp3": null,
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I dribbled Key Lime juice into his glass, then added the Schweppes. - Я накапала ему в стакан лимонного сока и добавила швепса.",
+        "definitions": "A deciduous tree of the genus Tilia, especially Tilia × europaea; the linden tree, or its wood."
+    },
+    {
+        "id": "passion fruit",
+        "translate": "маракуйя",
+        "mp3": null,
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "The passion fruit's flavor can be compared to that of the guava fruit . - Вкус маракуйи можно сравнить с ароматом гуавы.",
+        "definitions": "A plant, passiflora, that produces an edible fruit."
+    },
+    {
+        "id": "lemon",
+        "translate": "лимон",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/lemon-uk.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "Can I have a mineral water with ice and lemon? - Могу я взять минеральную воду с лимоном и льдом?",
+        "definitions": "A yellowish citrus fruit."
+    },
+    {
+        "id": "mango",
+        "translate": "манго",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/mango-au.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "If you reach out a bit higher, you can pick mangoes. - А если потянуться чуть выше головы, то и манго сорвать легко.",
+        "definitions": "A tropical Asian fruit tree, Mangifera indica."
+    },
+    {
+        "id": "melon",
+        "translate": "дыня",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/melon-au.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "I don't like melon. - Я не люблю дыни.",
+        "definitions": "Any of various plants of the family Cucurbitaceae grown for food, generally not including the cucumber."
+    },
+    {
+        "id": "watermelon",
+        "translate": "арбуз",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/watermelon-us.mp3",
+        "thema": "fruit",
+        "partOfSpeech": "noun",
+        "example": "Taste the yummy red watermelon! - Попробуйте сочный и вкусный красный арбуз!",
+        "definitions": "A plant of the species Citrullus lanatus, bearing a melon-like fruit."
+    },
+    {
+        "id": "blueberry",
+        "translate": "голубика",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/blueberry-ca.mp3",
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "I got you a blueberry bran muffin from the Belwood Bakery. - Я принёс вам кекс с отрубями и голубикой из пекарни Бэлвуд.",
+        "definitions": "An edible round berry belonging to the cowberry family."
+    },
+    {
+        "id": "blackberry",
+        "translate": "ежевика",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/blackberry-us.mp3",
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "Pancakes with a blackberry drizzle and fresh squeezed orange juice. - Блинчики с ежевичным джемом и свежевыжатый апельсиновый сок.",
+        "definitions": "A fruit-bearing shrub of the species Rubus fruticosus and some hybrids."
+    },
+    {
+        "id": "cherry",
+        "translate": "вишня",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/cherry-au.mp3",
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "The first cherries of spring. - Первая вишня этой весной.",
+        "definitions": "A small fruit, usually red, black or yellow, with a smooth hard seed and a short hard stem."
+    },
+    {
+        "id": "currant",
+        "translate": "смородина",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/currant-uk.mp3",
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "Red Currants! - Красная смородина!",
+        "definitions": "A small dried grape, usually the Black Corinth grape, rarely more than 4mm diameter when dried."
+    },
+    {
+        "id": "cranberry",
+        "translate": "клюква",
+        "mp3": null,
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "Pass the cranberry sauce. - Передай клюквенный соус.",
+        "definitions": "A shrub belonging to the section Vaccinium sect. Oxycoccus of the genus Vaccinium."
+    },
+    {
+        "id": "chokeberry",
+        "translate": "черноплодная рябина",
+        "mp3": null,
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "In southern Sakhalin, their summer diet consists of currants and chokeberries. - На юге Сахалина их летняя диета состоит из смородины и черноплодной рябины.",
+        "definitions": "The fruit of such a shrub."
+    },
+    {
+        "id": "goji berry",
+        "translate": "ягоды годжи",
+        "mp3": null,
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "Today, in China, International Goji Berry Day. - Сегодня в Китае празднуют Всемирный день ягоды годжи.",
+        "definitions": "Any of flowering species of the genus Lycium."
+    },
+    {
+        "id": "gooseberry",
+        "translate": "крыжовник",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/gooseberry-au.mp3",
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "I hear the gooseberries are doing well this year. - Я слышал, что крыжовник хорош в этом году.",
+        "definitions": "A fruit, Ribes uva-crispa, related to the currant."
+    },
+    {
+        "id": "raspberry",
+        "translate": "малина",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/raspberry-uk.mp3",
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "Ripe raspberries. - Очень спелая малина.",
+        "definitions": "The plant Rubus idaeus."
+    },
+    {
+        "id": "strawberry",
+        "translate": "клубника",
+        "mp3": null,
+        "thema": "berry",
+        "partOfSpeech": "noun",
+        "example": "What lovely-looking strawberries. - Какая чудная клубника.",
+        "definitions": "The sweet, usually red, edible fruit of certain plants of the genus Fragaria."
+    },
+    {
+        "id": "almond",
+        "translate": "миндальный орех",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/almond-us.mp3",
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "Come and try my glair almond cookies. - Может, съедите миндальное печенье?",
+        "definitions": "A type of tree nut."
+    },
+    {
+        "id": "cashew",
+        "translate": "кешью",
+        "mp3": null,
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "I like cashews. — Я люблю кешью.",
+        "definitions": "A tree, Anacardium occidentale, native to northeastern Brazil, now widely grown in tropical climates for its cashew nuts and cashew apples."
+    },
+    {
+        "id": "chestnut",
+        "translate": "каштан",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/chestnut-au.mp3",
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "There are a lot of chestnut trees and flowers in the city. - В городе много каштанов и цветов .",
+        "definitions": "A tree or shrub of the genus Castanea."
+    },
+    {
+        "id": "hazelnut",
+        "translate": "лесной орех, лещина",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/hazelnut-us.mp3",
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "Is a hazelnut chocolate chip scone with currants. - Это шоколадное печенье с фундуком и смородиной.",
+        "definitions": "The fruit of the hazel tree."
+    },
+    {
+        "id": "nutmeg",
+        "translate": "мускатный орех",
+        "mp3": null,
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "Mace and nutmeg are the same plant. - Мацис и мускат это одно и то же растение.",
+        "definitions": "An evergreen tree (Myristica fragrans) cultivated in the East Indies for its spicy seeds."
+    },
+    {
+        "id": "peanut",
+        "translate": "арахис",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/peanut-us.mp3",
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "I was watching a peanut butter commercial on television. - Я смотрел рекламу арахисового масла по телевизору.",
+        "definitions": "A legume resembling a nut, the fruit of the plant Arachis hypogaea."
+    },
+    {
+        "id": "pine nut",
+        "translate": "кедровый орех",
+        "mp3": null,
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "You would have had the grilled salmon and pine-nut salsa. - Тебе бы понравился лосось на гриле и соус с кедровыми орешками.",
+        "definitions": "The edible seed of any of several species of evergreen pine, especially Pinus pinea, Pinus cembra, and Pinus cembroides."
+    },
+    {
+        "id": "pistachio",
+        "translate": "фисташка",
+        "mp3": null,
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "Chocolate wobble and pistachio. - Шоколадное желе и фисташки.",
+        "definitions": "A deciduous tree (Pistacia vera) grown in parts of Asia for its drupaceous fruit."
+    },
+    {
+        "id": "walnut",
+        "translate": "грецкий орех",
+        "mp3": "https://api.dictionaryapi.dev/media/pronunciations/en/walnut-us.mp3",
+        "thema": "nuts",
+        "partOfSpeech": "noun",
+        "example": "The banana bread has walnuts in it. - В банановом хлебе содержатся грецкие орехи.",
+        "definitions": "A hardwood tree of the genus Juglans."
+    }
+]
+
+

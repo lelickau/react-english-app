@@ -1,0 +1,10 @@
+@import 'style/_variables.scss';
+
+.game-footer {
+    width: 100%;
+    height: 56px;
+    background-color: #fff;
+    @include shadow;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}

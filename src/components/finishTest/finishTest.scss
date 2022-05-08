@@ -1,0 +1,39 @@
+@import 'style/_variables.scss';
+
+.finish {
+    padding: 60px;
+    background-color: #F2EAFF;
+    @include shadow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &__results {
+        padding: 20px;
+        max-width: 350px;
+        background-color: #BF8FFD;
+        border-radius: 9px;
+        margin-bottom: 20px;
+    }
+
+    &__points {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 35px 50px;
+        background-color: #fff;
+    }
+
+    &__text {
+        margin-top: 15px;
+        text-align: center;
+        color: #fff;
+    }
+}
+
+@media (max-width: 550px) {
+    .finish {
+        padding: 35px 10px;
+    }
+}

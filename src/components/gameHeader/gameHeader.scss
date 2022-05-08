@@ -1,0 +1,47 @@
+@import 'style/_variables.scss';
+
+.game-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 25px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    @include shadow;
+
+    &__progress {
+        display: flex;
+        align-items: center;
+    }
+
+    &__points {
+        min-width: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 5px 15px;
+        border: 2px solid #BF8FFD;
+        border-radius: 9px;
+        color: #BF8FFD;
+        font-weight: 700;
+        margin-right: 20px;
+    }
+
+
+}
+
+@media (max-width: 500px) {
+    .game-header {
+
+        &__progress {
+            flex-direction: column-reverse;
+            align-items: flex-start;
+        }
+
+        &__points {
+            margin-right: 0;
+            margin-top: 20px;
+        }
+    }
+}

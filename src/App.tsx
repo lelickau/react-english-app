@@ -2,13 +2,14 @@ import React, { FC, useEffect, useState } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import { useAuthState } from 'react-firebase-hooks/auth'
 import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth'
+import { useAppDispatch } from 'hooks/reduxHooks'
 import { getUserProgress, removeUser, setError, setUser } from 'store/slices/userSlice'
 import Layout from 'components/layout/Layout'
 import HomePage from 'pages/homePage/HomePage'
-import { useAppDispatch } from 'hooks/reduxHooks'
-
 import AuthPage from 'pages/authPage/AuthPage'
 import Preloader from 'components/preloader/Preloader'
+import QuizPage from 'pages/quizPage/QuizPage'
+import QuizTest from 'pages/quizPage/QuizTest'
 
 const App:FC = () => {
     const dispatch = useAppDispatch()
@@ -57,6 +58,8 @@ const App:FC = () => {
                 <Route path="/" element={<Layout isAuth={isAuth} logout={logout}/>} >
                     <Route index element={isAuth ? <HomePage/> : <AuthPage/>} />
                     <Route path="auth" element={<AuthPage/>} />
+                    <Route path="quiz" element={<QuizPage/>} />
+                    <Route path="quiz-test" element={<QuizTest/>} />
                 </Route>
             </Routes>
         </>

@@ -1,0 +1,29 @@
+@import 'style/_variables.scss';
+
+.close-btn {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+
+    &::before,
+    &::after {
+        position: absolute;
+        content: '';
+        width: 40px;
+        height: 3px;
+        top: 50%;
+        left: 0;
+        border-radius: 3px;
+        background-color: #F67463;
+    }
+    &::before {
+        transform: rotate(-45deg);
+    }
+    &::after {
+        transform: rotate(45deg);
+    }
+
+}

@@ -1,0 +1,29 @@
+@import '../../../styles/variables.scss';
+
+.error-ico {
+    position: relative;
+    min-width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    background-color: $btn-color;
+
+    &::before,
+    &::after {
+        position: absolute;
+        content: '';
+        width: 3px;
+        height: 26px;
+        background-color: $box-color;
+        top: 7px;
+        left: 19px;
+    }
+
+    &::before {
+        transform: rotate(45deg);
+    }
+
+    &::after {
+        transform: rotate(-45deg);
+
+    }
+}

@@ -1,0 +1,72 @@
+@import 'style/_variables.scss';
+
+.header {
+    position: fixed;
+    z-index: 100;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    flex: 0 0 auto;
+    border-radius: 9px;
+    margin-top: 9px;
+    margin-bottom: 25px;
+    background-color: #fff;
+    @include shadow;
+
+    .container {
+        margin-top: 0;
+    }
+
+    .container,
+    &__menu,
+    &__list,
+    &__link  {
+        height: 100%;
+    }
+
+    &__list {
+        border-radius: 9px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+
+    &__link {
+        list-style: none;
+        height: 100%;
+    }
+
+    &__link-item {
+        color: #BF8FFD;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-size: 20px;
+        line-height: 25px;
+        font-weight: 400;
+        background-color: transparent;
+        border: none;
+        transition: all .3s;
+
+        &:hover {
+            color: #26C1FC;
+        }
+    }
+
+    &__link-item--active {
+        color: #fff;
+        background-color: #dac3ff;
+        margin-bottom: -15px;
+        margin-top: -17px;
+        padding: 20px;
+        border-radius: 9px;
+        box-shadow: 3px 4px 0px #bca8e5;
+
+        &:hover {
+            color: $text;
+        }
+    }
+}

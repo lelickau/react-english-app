@@ -1,0 +1,39 @@
+
+
+.form {
+    &__title {
+        text-align: center;
+        margin-bottom: 27px;
+    }
+
+    &__input-box {
+        position: relative;
+        margin-bottom: 7%;
+    }
+
+    &__show-pass {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    &__show-ico {
+        position: absolute;
+        right: 12px;
+        bottom: 13px;
+    }
+
+    &__hide-ico {
+        position: absolute;
+        right: 12px;
+        bottom: 11px;
+    }
+
+    &__btn-box {
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+

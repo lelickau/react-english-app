@@ -1,15 +1,14 @@
-import { getAuth, updateProfile } from "firebase/auth";
-import { setUserRank } from 'helpers/setUserRank';
-import { useAppDispatch, useAppSelector } from 'hooks/reduxHooks';
-import React, {ChangeEvent, FC, useState} from 'react';
-import { useNavigate } from 'react-router-dom';
+import React, {ChangeEvent, FC, useState} from 'react'
+import { useNavigate } from 'react-router-dom'
+import { getAuth, updateProfile } from "firebase/auth"
+import { setUserRank } from 'helpers/setUserRank'
+import { useAppDispatch, useAppSelector } from 'hooks/reduxHooks'
+import { setError, setUsername } from "store/slices/userSlice"
+import { useInput } from "hooks/useInput"
+import ErrorModal from "components/errorModal/ErrorModal"
+import PenIco from "components/UI/penIco/PenIco"
 
 import './homePage.scss'
-import penIco from 'resource/pen.svg'
-import { setError, setUsername } from "store/slices/userSlice";
-import { useInput } from "hooks/useInput";
-import ErrorModal from "components/errorModal/ErrorModal";
-import PenIco from "components/UI/penIco/PenIco";
 
 const HomePage: FC = () => {
     const dispatch = useAppDispatch()

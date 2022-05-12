@@ -1,0 +1,16 @@
+export const setUserRank = (points: number) => {
+    if (points > 0 && points < 10000) return 'Новичок'
+    if (points > 9999 || points < 20000) return 'Фаворит'
+    if (points > 19999 || points < 60000) return 'Боец'
+    if (points > 59999 || points < 90000) return 'Воин'
+    if (points > 89999 || points < 120000) return 'Гладиатор'
+    if (points > 119999 || points < 150000) return 'Великий воин'
+    if (points > 149999 || points < 190000) return 'Посвященный'
+    if (points > 189999 || points < 220000) return 'Герой'
+    if (points > 219999 || points < 260000) return 'Магистр'
+    if (points > 259999 || points < 300000) return 'Легенда'
+    if (points > 299999 || points < 350000) return 'Вершитель'
+    if (points > 149999 || points < 400000) return 'Хранитель'
+    if (points > 399999 || points < 500000) return 'Избранный'
+    if (points > 499999) return 'Повелитель'
+}

@@ -5,7 +5,7 @@ import './errorIco.scss'
 const ErrorIco: FC = () => {
     return (
         <div className='error-ico'></div>
-    )
-}
+    );
+};
 
-export default ErrorIco
+export default ErrorIco;

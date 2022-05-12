@@ -1,11 +1,11 @@
-@import '../../../styles/variables.scss';
+
 
 .error-ico {
     position: relative;
     min-width: 41px;
     height: 41px;
     border-radius: 50%;
-    background-color: $btn-color;
+    background-color: #fff;
 
     &::before,
     &::after {
@@ -13,7 +13,7 @@
         content: '';
         width: 3px;
         height: 26px;
-        background-color: $box-color;
+        background-color: #fff;
         top: 7px;
         left: 19px;
     }
@@ -24,6 +24,5 @@
 
     &::after {
         transform: rotate(-45deg);
-
     }
 }
